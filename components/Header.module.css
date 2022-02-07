@@ -1,0 +1,14 @@
+.mainNavigation {
+  background-color: #010101;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.navList {
+  list-style-type: none;
+  display: flex;
+}
+
+.navList li {
+  margin: 0 2rem 0 0;
+}

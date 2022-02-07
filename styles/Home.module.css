@@ -1,0 +1,44 @@
+.heading {
+  background-color: var(--secondary-bg-color);
+  color: #eee;
+
+  padding: 1rem;
+
+  text-align: center;
+
+  border: 1px 0 1px 0 solid #555;
+  height: 17rem;
+  margin: 2rem 0 4rem 0;
+}
+
+.headingImage {
+  border-radius: 50%;
+  position: relative;
+  display: block;
+
+  margin: 0 auto;
+  top: -2.5rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.main {
+  flex-grow: 1;
+  padding: 1rem;
+}
+
+.title {
+  text-align: center;
+  margin: 2rem 0 5rem 0;
+}
+
+.content {
+  width: 80%;
+  margin: 1rem auto;
+}
+
+

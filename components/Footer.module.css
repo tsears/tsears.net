@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: .5rem;
+
+  background-color: var(--secondary-bg-color);
+  color: var(--light-text-color);
+}
+
+.footerIcon {
+  fill: white;
+  margin: 1rem;
+}
