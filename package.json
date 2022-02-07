@@ -1,0 +1,19 @@
+{
+  "name": "tsears.net",
+  "version": "1.0.0",
+  "description": "Tom Sears' Personal Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsears/tsears.net.git"
+  },
+  "author": "Tom Sears",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsears/tsears.net/issues"
+  },
+  "homepage": "https://github.com/tsears/tsears.net#readme"
+}
